@@ -13,12 +13,10 @@ Here are a few things about me:
 
 Find more about me here:
 
-[website](https://afnanamin.github.io/)
+[Personal Website](https://afnanamin.github.io/)
 
-[github](https://github.com/AFNANAMIN)
+[Linkedin](https://www.linkedin.com/in/afnanamin/)
 
-[linkedin](https://www.linkedin.com/in/afnanamin/)
-
-[instagram](https://www.instagram.com/afnan.amin.ali/)
+[Instagram](https://www.instagram.com/afnan.amin.ali/)
 
 
