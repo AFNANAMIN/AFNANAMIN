@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**AFNANAMIN/AFNANAMIN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Afnan Amin ✨ ** Software Engineer || @ BazaarTechnologies** ✨ I engineer software products that can scale strategically and cost effectively.
 
-Here are some ideas to get you started:
+Here are a few things about me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on ... Terraform, Python, PySpark, Airflow , Dockers and Amazon Web Services.
+- 🌱 I’m currently learning ... System Design, Blitzscaling, Managing Distributed Teams.
+- 👯 I’m looking to collaborate on ... Product Hunt, Mock Interviews, Consultancy. 
+- 🤔 I’m looking to collaborate on ... Competetive programming and Tech Interviews.
+- 💬 Ask me about ... Terraform, Python, PySpark, Airflow , Dockers , Kafka, ELK Stack, Amazon Web Services, Cloud and Linux.
+- ⚡ Fun fact: ... I still google things.
+
+Find more about me here:
+
+[website]: https://afnanamin.github.io/
+[github]: https://github.com/AFNANAMIN
+[linkedin]: https://www.linkedin.com/in/afnanamin/
+[instagram]: https://www.instagram.com/afnan.amin.ali/
