@@ -13,7 +13,7 @@ Here are a few things about me:
 
 Find more about me here:
 
-[Personal Website](https://afnanamin.github.io/)
+[Personal Website](https://afnanaminali.netlify.app/)
 
 [Linkedin](https://www.linkedin.com/in/afnanamin/)
 
