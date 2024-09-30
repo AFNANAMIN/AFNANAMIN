@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Afnan Amin ✨ ** Software Engineer || @ BazaarTechnologies** ✨ I engineer software products that can scale strategically and cost effectively.
+I am Afnan Amin ✨ ** Data Engineer || @ Workhuman** ✨ I engineer software products that can scale strategically and cost effectively.
 
 Here are a few things about me:
 
