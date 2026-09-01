@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Afnan Amin ✨ ** Data Engineer || @ Workhuman** ✨ I engineer software products that can scale strategically and cost effectively.
+I am Afnan Amin ✨ ** Data Engineer ||| @ Workhuman** ✨ I engineer software products that can scale strategically and cost effectively.
 
 Here are a few things about me:
 
@@ -12,8 +12,6 @@ Here are a few things about me:
 - ⚡ Fun fact: ... I still google things.
 
 Find more about me here:
-
-[Personal Website](https://afnanaminali.netlify.app/)
 
 [Linkedin](https://www.linkedin.com/in/afnanamin/)
 
